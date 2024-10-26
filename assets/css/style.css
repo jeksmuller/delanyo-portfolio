@@ -413,7 +413,7 @@ main {
 .Download-cv:focus,
 .Download-cv:active {
   color: var(--orange-yellow-crayola);
-  opacity: 0.9; /* Optional: add some effect on hover */
+  opacity: 0.8; /* Optional: add some effect on hover */
 }
 
 
